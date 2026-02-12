@@ -1,5 +1,5 @@
 #### Hi 👋 
-My name is Can (nickname: ginsarix), I'm 16 years old and I'm a full-stack dev addicted to building modern web apps.
+My name is Can (nickname: ginsarix), I'm 17 years old and I'm a full-stack dev addicted to building modern web apps.
 <br>
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript?style=for-the-badge&logo=typescript&label=Typescript&labelColor=3178C6&logoColor=white&color=%2300000000)
